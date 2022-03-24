@@ -1,1 +1,1 @@
-LinqFaroShuffle
+LinqFaroShuffle is based on [Work with Language-Integrated Query (LINQ)](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq).
